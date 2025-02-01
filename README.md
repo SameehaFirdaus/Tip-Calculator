@@ -7,7 +7,7 @@
 ### Built with
 
 - Python
-- 
+  
 ### What I learned
 - Data Types
 - Numbers
