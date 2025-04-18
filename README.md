@@ -3,7 +3,7 @@
 
 ### The challenge
 
-- Create a simple python program that calculates tips from the final bill
+- Create a simple python program that calculates tips from the final bill.
 ### Built with
 
 - Python
